@@ -82,6 +82,7 @@ button.addEventListener("click",()=>{
     else
     {
         alert("geo location is not supporting");
+         grandaccess.classList.add("active");
     }
 })
 
